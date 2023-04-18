@@ -1,0 +1,13 @@
+admin
+user
+private
+usuario
+administrativo
+administrador
+shop
+advanced
+dvwa
+mutillidae
+teste
+vamosver
+exit
