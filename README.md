@@ -1,6 +1,6 @@
 # Enumerador DNS
 
-Enumerador DNS para testar subdomínios de sites
+Enumerador DNS para testar subdomínios de sites, famoso brute force para descobrir o IP para onde os subdomínios estão apontando.
 
 ## Criação
 
